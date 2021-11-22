@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wesgtox/Distributed-and-Concurrent-Systems?style=plastic" />
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wesgtox/Distributed-and-Concurrent-Systems?style=plastic" />
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wesgtox/Distributed-and-Concurrent-Systems?style=plastic" />
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/wesgtox/Distributed-and-Concurrent-Systems?style=plastic" />
-  <img alt="License" src="https://img.shields.io/github/license/wesgtox/Distributed-and-Concurrent-Systems?style=plastic" />
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wesgtox/DCS-Flask-API?style=plastic" />
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wesgtox/DCS-Flask-API?style=plastic" />
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wesgtox/DCS-Flask-API?style=plastic" />
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/wesgtox/DCS-Flask-API?style=plastic" />
+  <img alt="License" src="https://img.shields.io/github/license/wesgtox/DCS-Flask-API?style=plastic" />
 </p>
 
 ## About the Project
