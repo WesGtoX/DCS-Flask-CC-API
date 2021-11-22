@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "DCS-Flask-API"
+version = "0.1.0"
+description = ""
+authors = ["Wesley Mendes <wesley_gto_x@yahoo.com.br>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Flask = "^2.0.2"
+Flask-Cors = "^3.0.10"
+gunicorn = "^20.1.0"
+db-sqlite3 = "^0.0.1"
+
+[tool.poetry.dev-dependencies]
+mypy = "^0.910"
+black = "^21.11b1"
+flake8 = "^4.0.1"
+pytest = "^6.2.5"
+pytest-flake8 = "^1.0.7"
+ipdb = "^0.13.9"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
